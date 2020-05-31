@@ -1,0 +1,39 @@
+<aside class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      {{ with .Site.Params.gravatar }}
+      <div class="author-image">
+        <img src="https://www.gravatar.com/avatar/{{md5 .}}?s=200&d=mp" class="center" alt="Gravatar">
+      </div>
+      {{ else }}
+        {{ with .Site.Params.profilePicture }}
+        <div class="author-image">
+          <a href="{{ $.Site.BaseURL }}">
+          <img src="{{ $.Site.BaseURL }}{{ . }}" class="center" alt="Profile Picture">
+        </a>
+        </div>
+        {{ end }}
+      {{ end }}
+
+      {{ with .Site.Params.description }}
+      <p class="lead">{{.}}</p>
+      {{end}}
+    </div>
+    <nav>
+      <ul class="social-icons">
+      {{ range $item := .Site.Params.socialIcons }}
+      <li>
+        <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}">
+        <i class="fab {{ $item.icon }}" aria-hidden="true"></i> {{ $item.title }}
+        </a>
+      </li>
+      {{ end }}
+      </ul>
+    </nav>
+    <nav class="sidebar-nav">
+      | {{ range .Site.Menus.main -}}
+        <a href="{{.URL}}"> {{ .Name }} </a> |
+      {{- end }}
+    </nav>
+  </div>
+</aside>

@@ -1,0 +1,74 @@
+theme = "soho"
+baseurl = "https://www.noiopen.it/"
+languageCode = "it"
+title = "NoiOpen Community"
+DefaultContentLanguage = "it"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 5
+
+[params]
+title = "NoiOpen Community"
+description = "software italiano nel pubblico interesse"
+images = ["images/profile.png"]
+profilePicture = "images/profile.png"
+copyright = "NoiOpen"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["post"]
+
+## Set custom theme color.
+
+  [[params.socialIcons]]
+  icon = "fa-discourse"
+  title = "Discourse forum"
+  url = "https://noiopen.discourse.group"
+
+  [[params.socialIcons]]
+  icon = "fa-youtube"
+  title = "YouTube channel"
+  url = "https://www.youtube.com/channel/UCZfmS1OV9JF4_E1ImSuPqfQ"
+
+  [[params.socialIcons]]
+  icon = "fa-slack"
+  title = "Slack chat"
+  url = "https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub code"
+  url = "https://github.com/noiopen"
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+ [[menu.main]]
+  name = "Condotta"
+  weight = 100
+  identifier = "condotta"
+  url = "/condotta/"
+
+  [[menu.main]]
+  name = "Indice"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4

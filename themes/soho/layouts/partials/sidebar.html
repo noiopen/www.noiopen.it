@@ -24,7 +24,7 @@
       {{ range $item := .Site.Params.socialIcons }}
       <li>
         <a href="{{ $item.url }}" rel="me" title="{{ $item.title }}">
-        <i class="fab {{ $item.icon }}" aria-hidden="true"></i> {{ $item.title }}
+        <i class="fab {{ $item.icon }}" aria-hidden="true"></i> &nbsp; {{ $item.title }}
         </a>
       </li>
       {{ end }}

@@ -21,7 +21,7 @@ L’open source funziona così, ed è sempre stato così: il software è liberam
 
 A questo punto diventa importante andare spediti per costituire l’associazione. Rimangono validi i principi già enunciati: la associazione avrà sostanzialmente il ruolo di detentore della donazione del software e di supporto della community ma non sostituisce la community, semmai la rappresenta. Chiunque voglia impegnarsi in prima persona può diventare membro dell’associazione, altrimenti può contribuire liberamente postando sul forum, discutendo in chat o contribuendo su GitHub.
 
-Prendo l’iniziativa di organizzare le votazioni per lo statu fissando alcune semplici regole che rendo chiare domani. Ma essenzialmente cominciamo a votare lo statuto a pezzi coerenti come stavamo già facendo. Se sono richieste modifiche chiunque potrà proporre e votare emendamenti che “mettiamo in coda” e votiamo dopo aver approvato lo statuto. Facciamo durare le votazioni di ogni parte una settimana, ma votiamo più parti in parallelo, una al giorno, e poi votiamo gli emendamenti.
+Prendo l’iniziativa di organizzare le votazioni per lo statuto fissando alcune semplici regole che rendo chiare domani. Ma essenzialmente cominciamo a votare lo statuto a pezzi coerenti come stavamo già facendo. Se sono richieste modifiche chiunque potrà proporre e votare emendamenti che “mettiamo in coda” e votiamo dopo aver approvato lo statuto. Facciamo durare le votazioni di ogni parte una settimana, ma votiamo più parti in parallelo, una al giorno, e poi votiamo gli emendamenti.
 
 
 Michele Sciabarrà

@@ -30,10 +30,10 @@
       {{ end }}
       </ul>
     </nav>
-    <nav class="sidebar-nav">
-      | {{ range .Site.Menus.main -}}
-        <a href="{{.URL}}"> {{ .Name }} </a> |
+    <ul class="sidebar-nav">
+      {{ range .Site.Menus.main -}}
+        <li><a href="{{.URL}}"> {{ .Name }}</a><li>
       {{- end }}
-    </nav>
+        </ul>
   </div>
 </aside>

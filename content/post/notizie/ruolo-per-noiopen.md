@@ -1,7 +1,7 @@
 +++
 title = "Un nuovo ruolo per NoiOpen"
 date = "2020-05-30"
-description = "Notiza importante! Un ente istituzionale ci affiderà un software per la Pubblica Amministrazione."
+description = "Notizia importante! Un ente istituzionale ci affiderà un software per la Pubblica Amministrazione."
 tags = [
     "notizie",
 ]

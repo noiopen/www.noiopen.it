@@ -5,6 +5,7 @@ date = "2020-06-04"
 
 Bozza di statuto associazione NoiOpen attualmente in discussione.
 
+<a name="art1">
 ## ART. 1 – (Denominazione e sede)
 
 E’ costituita, nel rispetto dell’ art. 36 e sgg. del Codice Civile l’associazione denominata: “NoiOpen” con sede presso il domicilio del Presidente pro tempore che verrà indicato pubblicamente sulle risorse online dell’associazione.
@@ -13,6 +14,7 @@ Il trasferimento della sede legale non comporta modifica statutaria, ma l’obbl
 
 Le comunicazioni informatiche e i voti digitali a distanza (chat, email comune, pec, whatsapp, forum, documenti firmati e qualsiasi altra, testuale, audio o vocale) assolvono la forma scritta per ogni finalità di legge. Gli indirizzi usati dai soci e dagli organi sono il recapito elettronico ufficiale. In caso di modifica del recapito sar onere dell’interessato comunicarlo. Per il voto saranno ritenute valide, sufficienti e scritte le dichiarazioni di voto espresse da ciascuno con il proprio recapito/account sulla risorsa online dell’associazione.
 
+<a name="art2">
 ## ART. 2 - (Finalità)
 
 L’associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
@@ -40,6 +42,7 @@ collaborare con tutti i soggetti che in Italia, in Europa e all’estero svolgon
 
 L’associazione sì avvale di ogni strumento utile al raggiungimento degli scopi sociali e in particolare della collaborazione con enti pubblici (enti locali, amministrazioni, enti di ricerca, università, ecc.), anche attraverso la stipula di apposite convenzioni, della partecipazione ad altre associazioni, società o enti aventi scopi analoghi o connessi ai propri.
 
+<a name="art3">
 ## ART. 3 - (Soci)
 
 Sono ammesse all’Associazione tutte le persone fisiche che ne condividono gli scopi e accettano il presente statuto e l’eventuale regolamento interno.
@@ -56,6 +59,7 @@ L’ammissione a socio è a tempo indeterminato, fermo restando il diritto di re
 
 L’associazione prevede l’intrasmissibilità e la non rimborsabilità della quota o contributo associativo ad eccezione dei trasferimenti a causa di morte e la non rivalutabilità della stessa.
 
+<a name="art4">
 ## ART. 4 - (Diritti e doveri dei soci)
 
 I soci hanno diritto di eleggere gli organi sociali e di essere eletti negli stessi.
@@ -66,6 +70,7 @@ I soci devono versare nei termini l’eventuale quota sociale e rispettare il pr
 
 Gli aderenti svolgeranno la propria attività nell’associazione prevalentemente in modo personale, del tutto volontario e del tutto gratuito, senza fini di lucro, anche indiretto, in ragione delle disponibilità personali.
 
+<a name="art5">
 ## ART. 5 - (Recesso, decesso ed esclusione del socio)
 
 Il socio può recedere dall’associazione mediante comunicazione scritta al Consiglio direttivo
@@ -76,6 +81,7 @@ L’esclusione è deliberata dall’Assemblea a maggioranza dei votanti con voto
 
 E’ comunque ammesso ricorso al giudice ordinario.
 
+<a name="art6">
 ## ART. 6 - (Organi sociali)
 
 Gli organi dell’associazione sono:
@@ -87,6 +93,7 @@ Gli organi dell’associazione sono:
 
 Tutte le cariche sociali sono assunte a titolo gratuito.
 
+<a name="art7">
 ## ART. 7 - (Assemblea)
 
 L’Assemblea è l’organo sovrano dell’associazione ed è composta da tutti i soci
@@ -97,6 +104,7 @@ L’Assemblea è inoltre convocata a richiesta di almeno un decimo dei soci o qu
 
 L’Assemblea può essere ordinaria o straordinaria. E’ straordinaria quella convocata per la modifica dello statuto e lo scioglimento dell’associazione. E’ ordinaria in tutti gli altri casi.
 
+<a name="art8">
 ## ART. 8 - (Compiti dell’Assemblea)
 
 L’assemblea deve:
@@ -108,6 +116,7 @@ deliberare in via definitiva sulle domande di nuove adesioni e sulla esclusione 
 - eleggere il Presidente e il Consiglio Direttivo;
 deliberare su quant’altro demandatole per legge o per statuto, o sottoposto al suo esame dal Consiglio direttivo.
 
+<a name="art9">
 ## ART. 9 - (Validità Assemblee)
 
 L’assemblea ordinaria è regolarmente costituita in prima convocazione se è presente la maggioranza degli iscritti aventi diritto di voto; in seconda convocazione, da tenersi anche nello stesso giorno, qualunque sia il numero dei presenti, in proprio o in delega.
@@ -121,11 +130,13 @@ Le deliberazioni dell’assemblea ordinaria vengono prese a maggioranza dei pres
 
 L’assemblea straordinaria approva eventuali modifiche allo statuto con la presenza di 3/4 dei soci e con decisione deliberata a maggioranza dei presenti; scioglie l’associazione e ne devolve il patrimonio col voto favorevole di 3/4 dei soci ad enti senza scopo di lucro.
 
+<a name="art10">
 ## ART. 10 - (Verbalizzazione)
 
 Le discussioni e le deliberazioni dell’assemblea sono riassunte in un verbale redatto dal segretario e sottoscritto dal presidente in forma elettronica pubblicandolo sulle risorse informatiche dell’associazione. Per la sottoscrizione si intende sufficiente la pubblicazione del verbale con la correlata dichiarazione di sottoscrizione del presidente pro tempore dal proprio account.
 Ogni socio ha diritto di consultare il verbale e di trarne copia.
 
+<a name="art11">
 ## ART. 11 - (Consiglio direttivo)
 
 Il consiglio direttivo è composto da numero 3 membri eletti dall’assemblea tra i propri componenti. 
@@ -138,12 +149,14 @@ Il Consiglio direttivo compie tutti gli atti di ordinaria e straordinaria ammini
 
 Il consiglio direttivo dura in carica per un anno e i suoi componenti possono essere rieletti per massimo n. tre mandati consecutivi.
 
+<a name="art12">
 ## ART. 12 - (Presidente)
 
 Il Presidente è l’unico soggetto ad avere la legale rappresentanza dell’associazione, presiede il Consiglio direttivo e l’assemblea; convoca l’assemblea dei soci e il Consiglio direttivo sia in caso di convocazioni ordinarie che straordinarie.
 
 Il Presidente può anche essere eletto come membro del Consiglio direttivo ed in tal caso votare e agire come tale.
 
+<a name="art13">
 ## ART. 13 - (Risorse economiche)
 
 Le risorse economiche dell’associazione sono costituite da:
@@ -157,6 +170,7 @@ L’associazione ha il divieto di distribuire, anche in modo indiretto, utili e 
 
 L’associazione ha l’obbligo di reinvestire gli eventuali utili e avanzi di gestione esclusivamente per lo sviluppo delle attività funzionali al perseguimento dello scopo istituzionale di solidarietà sociale.
 
+<a name="art14">
 ## ART. 14 - (Rendiconto economico-finanziario)
 
 Il rendiconto economico-finanziario dell’associazione è annuale e decorre dal primo gennaio di ogni anno. Il conto consuntivo contiene tutte le entrate e le spese sostenute relative all’anno trascorso. Il conto preventivo contiene le previsioni di spesa e di entrata per l’esercizio annuale successivo.
@@ -165,12 +179,14 @@ Il rendiconto economico-finanziario è predisposto dal Consiglio direttivo e app
 
 Il conto consuntivo deve essere approvato entro il 30 aprile dell’anno successivo alla chiusura dell’esercizio sociale.
 
+<a name="art15">
 ## ART. 15 - (Scioglimento e devoluzione del patrimonio)
 
 L’eventuale scioglimento dell’Associazione sarà deciso soltanto dall’assemblea con le modalità di cui all’art. 9.
 
 L’associazione ha l’obbligo di devolvere il patrimonio dell’ente non commerciale in caso di suo scioglimento per qualunque causa, ad altro ente non commerciale che svolga un’analoga attività istituzionale, salvo diversa destinazione imposta dalla legge con finalità analoghe o ai fini di pubblica utilità, sentito l’organismo di controllo di cui all’articolo 3, comma 190, della legge 23 dicembre 1996, n. 662, e salvo diversa destinazione imposta dalla legge;
 
+<a name="art16">
 ## ART. 16 - (Disposizioni finali)
 
 Per tutto ciò che non è espressamente previsto dal presente statuto si applicano le disposizioni previste dal Codice civile e dalle leggi vigenti in materia.

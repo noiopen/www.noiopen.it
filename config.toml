@@ -51,8 +51,15 @@ mainSections = ["post"]
   [[menu.main]]
   name = "Statuto"
   weight = 100
+  identifier = "statuto bozza"
+  url = "/statuto-bozza/"
+
+  [[menu.main]]
+  name = "Statuto"
+  weight = 100
   identifier = "statuto"
   url = "/statuto/"
+
 
   [[menu.main]]
   name = "Condotta"

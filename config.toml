@@ -85,3 +85,6 @@ mainSections = ["post"]
   noClasses = true
   style = "monokai"
   tabWidth = 4
+
+  [markup.goldmark.renderer]
+     unsafe = true

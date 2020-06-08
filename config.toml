@@ -34,7 +34,7 @@ mainSections = ["post"]
   [[params.socialIcons]]
   icon = "fa-slack"
   title = "Slack chat"
-  url = "https://join.slack.com/t/noiapp/shared_invite/zt-dzdakd34-KvCn3HMlebqTH4ewlGamhg"
+  url = "https://join.slack.com/t/noiapp/shared_invite/zt-f03huxn8-twGb3OE65B_1_wj8HiZEZg"
 
   [[params.socialIcons]]
   icon = "fa-github"

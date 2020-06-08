@@ -3,36 +3,11 @@ title = "Statuto (bozza)"
 date = "2020-06-04"
 +++
 
-Statuto associazione NoiOpen attualmente in discussione.
+
+Statuto associazione NoiOpen attualmente in votazione, prosegue lo [statuto approvato](/statuto/)
 
 
-## ART. 2 - (Finalità)
-
-L’associazione è apartitica, non ha scopo di lucro e svolge attività di promozione e utilità sociale.
-
-L’associazione persegue lo scopo di diffondere la cultura dei beni comuni digitali e le pratiche di condivisione dei saperi e della conoscenza attraverso:
-
-A) ricerca scientifica di particolare interesse sociale;
-
-B) la promozione culturale e sociale.
-
-Al fine di perseguire il proprio scopo sociale l’Associazione opera, tra le altre, attraverso:
-
-la promozione della cultura e/o la partecipazione alla realizzazione di hardware e software Open Source e sistemi trasparenti;
-
-la promozione e/o la partecipazione a progetti finalizzati, in generale, a rendere pubblici e condivisi gli strumenti e/o i risultati (Open Data, Open Standard, Open Access, ecc.) e dei beni comuni digitali (digital commons);
-
-la promozione e la gestione di iniziative editoriali, l’organizzazione di eventi, manifestazioni e convegni, hackathon, campagne e attività di coding e debugging, coding for kids;
-l’associazione e i soci rilasciano software solo tramite una delle licenze open source piu’ usate a seconda del progetto. Di default verrà utilizzata la Apache License piu’ recente.
-
-il favorire lo sviluppo, l’incontro e lo scambio tra culture e competenze diverse (tecnologiche, informatiche, politiche, giornalistiche, economiche, sociali, artistiche e di attivismo civico e politico) con il comune interesse per l’uso dei dati per finalità di interesse collettivo;
-
-la ricerca, la formazione e la didattica per diffondere la cultura informatica e dell’Open Source, degli Open Data e le competenze necessarie per il loro utilizzo;
-
-collaborare con tutti i soggetti che in Italia, in Europa e all’estero svolgono attività nei settori di intervento dell’Associazione
-
-L’associazione sì avvale di ogni strumento utile al raggiungimento degli scopi sociali e in particolare della collaborazione con enti pubblici (enti locali, amministrazioni, enti di ricerca, università, ecc.), anche attraverso la stipula di apposite convenzioni, della partecipazione ad altre associazioni, società o enti aventi scopi analoghi o connessi ai propri.
-
+# Votazione 3
 
 ## ART. 7 - (Assemblea)
 
@@ -91,6 +66,8 @@ Il Presidente è l’unico soggetto ad avere la legale rappresentanza dell’ass
 
 Il Presidente può anche essere eletto come membro del Consiglio direttivo ed in tal caso votare e agire come tale.
 
+# Votazione 4
+
 ## ART. 13 - (Risorse economiche)
 
 Le risorse economiche dell’associazione sono costituite da:
@@ -119,5 +96,40 @@ L’eventuale scioglimento dell’Associazione sarà deciso soltanto dall’asse
 L’associazione ha l’obbligo di devolvere il patrimonio dell’ente non commerciale in caso di suo scioglimento per qualunque causa, ad altro ente non commerciale che svolga un’analoga attività istituzionale, salvo diversa destinazione imposta dalla legge con finalità analoghe o ai fini di pubblica utilità, sentito l’organismo di controllo di cui all’articolo 3, comma 190, della legge 23 dicembre 1996, n. 662, e salvo diversa destinazione imposta dalla legge;
 
 ## ART. 16 - (Disposizioni finali)
+
+Per tutto ciò che non è espressamente previsto dal presente statuto si applicano le disposizioni previste dal Codice civile e dalle leggi vigenti in materia.
+
+# Votazione 5
+
+Si modifica l’articolo 11 della bozza come segue:
+
+## ART. 11 - (Consiglio direttivo)
+
+Il Consiglio direttivo è composto da numero minimo di 5 e massimo di 11 membri (inclusi Presidente e Vice Presidente) eletti dall’assemblea tra i propri componenti con le figure di: Presidente, Vice Presidente e un minimo di 3 Consiglieri. L’assemblea puo’ decidere, a maggioranza dei votanti, l’aumento a un numero dispari successivo di membri del Consiglio Direttivo senza necessità di modificare lo statuto qualora lo si ritenga opportuno.
+
+In caso di dimissioni di un consigliere, il consiglio direttivo coopeterà il primo tra i non eletti. In assenza, il consigliere non sarà sostituito: unico caso in cui verrà accettato un numero pari di consiglieri e il voto del Presidente vale due voti. Qualora, in mancanza di non eletti, il consiglio scendesse sotto il numero minimo di 5 consiglieri, incluso Presidente e Vice presidente, il Consiglio decade per intero e sarà cura del Presidente uscente indire nuove elezioni.
+
+Il Consiglio direttivo e’ validamente convocato quando si riuniscono tutti i componenti, oppure con convocazione entro 7 giorni prima salvo diverso accordo unanime.
+
+Il Consiglio direttivo è validamente costituito quando sono presenti almeno il 50% dei componenti. Esso delibera a maggioranza dei presenti.
+
+Il Consiglio direttivo compie tutti gli atti di ordinaria e straordinaria amministrazione non espressamente demandati all’Assemblea; redige e presenta all’assemblea il rapporto annuale sull’attività dell’associazione, il rendiconto consuntivo e preventivo.
+
+Il consiglio direttivo dura in carica per un anno e i suoi componenti possono essere rieletti per massimo n. tre mandati consecutivi.
+
+Le comunicazioni delle convocazioni e i voti seguono le modalità previste nell’art. 1.
+
+Nota: tecnicamente si dovrebbe poter votare un emendamento finite le votazioni al testo che si deve emendare. Abbiamo dato una settimana quindi le votazioni non sono finite. Ragionevolmente vista l’unanimità il testo è stato approvato, ma occorre tenere presente che questo emendamento decadrà nel caso il testo che si vuole modificare non viene approvato. Vi prego comunque di votarlo per accelerare i tempi.
+
+# Votazione 6
+
+Si aggiunge un nuovo articolo 16, il precedente articolo 16 diventa articolo 17, come segue:
+
+## ART. 16 - (Contestazioni)
+
+Il socio che agisce legalmente contro soci o terzi che hanno rapporti con l’associazioni su attività associative senza preventivamente sottoporre la questione a delibera assembleare e attenderne la decisione sarà sospeso automaticamente fino alla valutazione della gravità della propria condotta.
+La sospensione non sospende gli obblighi che il socio mantiene verso l’associazione.
+
+## ART. 17 - (Disposizioni finali)
 
 Per tutto ciò che non è espressamente previsto dal presente statuto si applicano le disposizioni previste dal Codice civile e dalle leggi vigenti in materia.

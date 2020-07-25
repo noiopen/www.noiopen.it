@@ -13,13 +13,18 @@ title = "NoiOpen Community"
 description = "software italiano nel pubblico interesse"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-copyright = "NoiOpen"
+copyright = "NoiOpen CF 91048350440"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
 mainSections = ["post"]
 
 ## Set custom theme color.
+
+  [[params.socialIcons]]
+  icon = "fa-wikipedia-w"
+  title = "MediaWiki wiki"
+  url = "https://wiki.noiopen.it"
 
   [[params.socialIcons]]
   icon = "fa-discourse"
@@ -60,12 +65,6 @@ mainSections = ["post"]
   weight = 100
   identifier = "condotta"
   url = "/condotta/"
-
-  [[menu.main]]
-  name = "Indice"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
 
 [markup]
 

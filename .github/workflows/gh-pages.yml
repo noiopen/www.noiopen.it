@@ -20,6 +20,9 @@ jobs:
           hugo-version: '0.71.1'
           extended: true
 
+      - name: Assemble
+        run: bash autoblog.sh
+
       - name: Build
         run: hugo --minify
 

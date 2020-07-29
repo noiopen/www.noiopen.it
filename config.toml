@@ -22,17 +22,14 @@ mainSections = ["post"]
 ## Set custom theme color.
 
   [[params.socialIcons]]
+  icon = "fa-paper-plane"
   title = "IoGateway"
   url = "https://wiki.noiopen.it/wiki/IoGateway"
 
   [[params.socialIcons]]
+  icon = "fa-user-md"
   title = "OpenMed"
   url = "https://wiki.noiopen.it/wiki/OpenMed"
-
-  [[params.socialIcons]]
-  icon = "fa-wikipedia-w"
-  title = "MediaWiki wiki"
-  url = "https://wiki.noiopen.it"
 
   [[params.socialIcons]]
   icon = "fa-wikipedia-w"

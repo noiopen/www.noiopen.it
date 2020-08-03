@@ -154,7 +154,7 @@ Le risorse economiche dell&#39;associazione sono costituite da:
 - contributi di privati, eredità, donazioni e legati;
 - altre entrate compatibili con la normativa in materia
 
-L&#39;associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonchè fondi, riserve o capitale durante la vita dell&#39;ente, in favore di amministratori, soci, partecipanti, lavoratori o collaboratori e in generale a terzi, a meno che la destinazione o la distribuzione non siano imposte per legge, ovvero siano effettuate a favore di enti che per legge, statuto o regolamento, fanno parte della medesima e unitaria struttura e svolgono la stessa attività ovvero altre attività istituzionali direttamente e specificamente previste dalla normativa vigente.
+L&#39;associazione ha il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonché fondi, riserve o capitale durante la vita dell&#39;ente, in favore di amministratori, soci, partecipanti, lavoratori o collaboratori e in generale a terzi, a meno che la destinazione o la distribuzione non siano imposte per legge, ovvero siano effettuate a favore di enti che per legge, statuto o regolamento, fanno parte della medesima e unitaria struttura e svolgono la stessa attività ovvero altre attività istituzionali direttamente e specificamente previste dalla normativa vigente.
 
 L&#39;associazione ha l&#39;obbligo di reinvestire gli eventuali utili e avanzi di gestione esclusivamente per lo sviluppo delle attività funzionali al perseguimento dello scopo istituzionale di solidarietà sociale.
 
@@ -174,7 +174,7 @@ L&#39;associazione ha l&#39;obbligo di devolvere il patrimonio dell&#39;ente non
 
 ## ART. 16 - (Contestazioni)
 
-Il socio che agisce legalmente contro soci o terzi che hanno rapporti con l&#39;associazioni su attività associative senza preventivamente sottoporre la questione  a delibera assembleare e attenderne la decisione sarà sospeso automaticamente fino alla valutazione della gravità della propria condotta. La sospensione non sospende  gli obblighi che il socio mantiene verso l&#39;associazione.
+Il socio che agisce legalmente contro soci o terzi che hanno rapporti con l&#39;associazione su attività associative senza preventivamente sottoporre la questione  a delibera assembleare e attenderne la decisione sarà sospeso automaticamente fino alla valutazione della gravità della propria condotta. La sospensione non sospende  gli obblighi che il socio mantiene verso l&#39;associazione.
 
 ## ART 17 - (Comunicazioni, convocazioni e  votazioni)
 

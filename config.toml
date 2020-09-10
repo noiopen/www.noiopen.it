@@ -1,5 +1,5 @@
 theme = "soho"
-baseurl = "https://www.noiopen.it/"
+baseurl = "https://noiopen.it/"
 languageCode = "it"
 title = "NoiOpen Community"
 DefaultContentLanguage = "it"

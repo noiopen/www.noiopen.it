@@ -73,7 +73,8 @@ mainSections = ["post"]
   name = "Privacy"
   weight = 100
   identifier = "privacy"
-  url = "/condotta/"
+  url = "/privacy/"
+  
 [markup]
 
   [markup.highlight]

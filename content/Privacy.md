@@ -3,7 +3,7 @@ title = "INFORMATIVA PER TRATTAMENTO DI DATI PERSONALI"
 date = "2020-11-26"
 +++
 
-INFORMATIVA PER TRATTAMENTO DI DATI PERSONALI
+
 
 In relazione a quanto previsto in materia di privacy ai sensi del GDPR - Regolamento UE 2016/679 (Regolamento Europeo per la protezione dei dati personali) - con la presente comunichiamo le dovute informazioni in ordine al trattamento dei dati personali forniti.
 
@@ -110,8 +110,3 @@ Ove applicabili, l’interessato ha altresì i diritti di cui agli artt. 16-21 G
 Fatto salvo ogni altro ricorso amministrativo e giurisdizionale, se l’interessato ritiene che il trattamento dei dati che lo riguardano violi quanto previsto dal Reg. UE 2016/679, ai sensi dell’art. 15 lettera f) del succitato Reg. UE 2016/679, ha il diritto di proporre reclamo al Garante per la protezione dei dati personali e, con riferimento all’art. 6 paragrafo 1, lettera a) e art. 9, paragrafo 2, lettera a), ha il diritto di revocare in qualsiasi momento il consenso prestato.
 Nel caso di richiesta di portabilità del dato da parte dell’interessato, il Titolare del trattamento fornirà in un formato di uso comune e leggibile i dati personali che lo riguardano, fatto salvo i commi 3 e 4 dell’art. 20 del Reg. UE 2016/679.
 
-CONSENSO AL TRATTAMENTO DEI DATI PERSONALI
-
-Il sottoscritto …………………………………………… letta l’informativa che precede, acconsente al trattamento dei propri dati personali nelle modalità e per le finalità descritte sempre nell’informativa che precede.
-
-Data……………………… Firma dell’Interessato/Dichiarante ………………

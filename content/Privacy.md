@@ -9,14 +9,15 @@ In relazione a quanto previsto in materia di privacy ai sensi del GDPR - Regolam
 
 La informiamo quindi che l’ Associazione NoiOpen , da ora semplicemente Associazione , residente in Via Umberto Terracini, 28 – 63074 San Benedetto del Tronto, codice fiscale 91048350440, email: noiopensource@gmail.com, in qualità di Titolare e Responsabile , tratterà i suoi dati personali, identificativi ed anagrafici ai sensi dell’articolo 13 del suddetto GDPR, con le definizioni, modalità e precauzioni di seguito elencate:
 
-1. FIGURE CHE INTERVENGONO NEL TRATTAMENTO
+
+## 1. FIGURE CHE INTERVENGONO NEL TRATTAMENTO.
 
 Interessato o Dichiarante : Colui che conferisce i propri dati personali ed al quale la presente informativa è rivolta;
 Titolare del trattamento : l’ Associazione
 Responsabile del trattamento : l’ Associazione
 Terzo che riceve il dato : Colui al quale il dato è conferito dall’Associazione
 
-2 . DATI OGGETTO DEL TRATTAMENTO
+## 2. DATI OGGETTO DEL TRATTAMENTO.
 
 Il Titolare del Trattamento tratterà i seguenti dati personali identificativi:
 

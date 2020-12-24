@@ -22,7 +22,7 @@ mainSections = ["post"]
 ## Set custom theme color.
 
   [[params.projects]]
-  title = "IoGateway"
+  title = "IO-Gateway"
   url = "https://wiki.noiopen.it/wiki/IoGateway"
 
   [[params.projects]]

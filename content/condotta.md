@@ -90,4 +90,4 @@ _Revisione 2.2. Pubblicata il 4 Febbraio 2016._
 						   il 
 _Revisione 2.1. Pubblicata il 23 Giugno 2014._
 
-_Revisione 2.0, adottata dalla  board del [Stumptown Syndicate](http://stumptownsyndicate.org)  il  10 Genneaio 2013. Pubblicata 17 Marzo 2013._
+_Revisione 2.0, adottata dalla  board del [Stumptown Syndicate](http://stumptownsyndicate.org)  il  10 Gennaio 2013. Pubblicata 17 Marzo 2013._
